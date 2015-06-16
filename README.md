@@ -18,7 +18,7 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 Title: SNCC stereo matching for KITTI data
-Author: Chloe LeGendre, chloelle@gmail.com
+Author: Chloe LeGendre, chloelle (at) gmail.com
 Date: June 16, 2015
 
 Computes disparity maps for KITTI data using SNCC matching function, per the following reference:
